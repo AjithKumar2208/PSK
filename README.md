@@ -1,4 +1,6 @@
-# PSK
+# NAME : AJITH KUMAR M
+# REG NO: 212224060010
+
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
